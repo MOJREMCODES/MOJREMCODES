@@ -1,57 +1,52 @@
-# السلام عليكم، أنا فوضيل مبارك (Mojrem Codes) 👋
+# السلام عليكم، أنا فوضيل مبارك (Mojrem Codes)  
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Full-Stack+%26+Mobile+Developer;Clean+Code+Enthusiast;Always+Building+%26+Learning" alt="Typing SVG" />
 
-**Full-Stack Developer** | متخصص في تطبيقات الموبايل والويب | أبني حلولًا حقيقية تُستخدم يوميًا من آلاف المستخدمين
+<img align="right" width="320" src="https://i.imgur.com/8Q2X9yK.gif" />
 
-> معظم مشاريعي التجارية والكبرى محمية باتفاقيات عدم إفشاء (NDA)، لذا هي private، لكن يمكنني عرض الكود أو عمل Demo خاص في المقابلات.
+**Hi there, I'm Foudil Mebarek**  
+Passionate developer turning real-world problems into scalable apps.  
+Most of my production projects are private due to NDAs — happy to showcase code & live demos in private.
 
-### 📩 تواصل معي
-[![Gmail](https://img.shields.io/badge/Gmail-mojremcodes0001@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mojremcodes0001@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mojrem_Codes-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mojrem-codes-6237a5326)
-[![GitHub](https://img.shields.io/badge/GitHub-MOJREMCODES-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MOJREMCODES)
+### 📬 Connect with me
+[![Gmail](https://img.shields.io/badge/mojremcodes0001@gmail.com-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:mojremcodes0001@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Mojrem_Codes-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mojrem-codes-6237a5326)
 
-### 🛠️ التقنيات والمهارات (نسبة الإتقان)
+### 🛠 Tech Stack & Current Mastery
 
-| التقنية                  | نسبة الإتقان        | تعليق                        |
-|--------------------------|----------------------|------------------------------|
-| Dart & Flutter           | ██████████ 98%      | تطبيقات الموبايل (Android/iOS/Web) |
-| PHP + MySQL              | █████████▊ 95%      | Backend قوي ومستقر           |
-| PostgreSQL + BDA         | ████████▉▊ 92%      | قواعد بيانات معقدة وتحليل   |
-| Java + OOP               | ████████▋▊ 88%      | تطبيقات سطح المكتب والموبايل |
-| C / C++ / Algorithms     | ████████░░ 85%      | هيكلة البيانات والخوارزميات |
-| HTML - CSS - JS          | █████████▌ 96%      | واجهات عصرية ومتجاوبة       |
-| Assembly                 | ██████▎░░░ 73%      | فهم عميق للـ Hardware        |
-| Docker                   | ████████▌▊ 90%      | نشر وإدارة التطبيقات         |
-| Git & GitHub             | ██████████ 99%      | سير عمل احترافي ونظيف        |
+| Technology                    | Level                                   |
+|--------------------------------|-----------------------------------------|
+| Java + OOP                     | ████████████████████ 95%                |
+| Git & GitHub                   | ███████████████████▋ 97%                |
+| Dart & Flutter                 | █████████████▍ 60%                      |
+| Docker                         | █████████████▋ 65%                      |
+| HTML · CSS · JavaScript        | █████████████▍ 60%                      |
+| PHP + MySQL                    | ███████████▌ 50%                        |
+| Algorithms & Competitive Programming | ████████████████▍ 80%              |
+| Assembly                       | █████████████▍ 60%                      |
+| C / C++                        | ██████ 30%                              |
+| PostgreSQL & DBA               | ████ 20%                                |
+| Kubernetes                     | ██ 15% (Currently learning)             |
 
-### 🚀 أبرز المشاريع التي عملت عليها (غير متاحة علنيًا - NDA)
+### 🔥 Featured Projects (Private / Commercial)
 
-- **نظام إدارة صيدلية متكامل**  
-  Flutter + PHP + MySQL + Docker ← يُستخدم حاليًا في عدة صيدليات (إدارة المخزون، المبيعات، التقارير، الفواتير)
+| Project                        | Description                                      |
+|-------------------------------|--------------------------------------------------|
+| Pharmacy Management System    | Full inventory, sales & reporting solution used in real pharmacies |
+| Tourist Guide App             | Offline-first multilingual tourist assistant    |
+| Artist Search Product         | Real-time product discovery & tracking platform |
+| Doyounekfiaman                | Islamic debt & trust management app — currently in planning & design phase |
+| +15 other projects            | E-commerce stores, booking systems, delivery apps, internal ERPs |
 
-- **تطبيق دليل سياحي ذكي (Tourist Guide)**  
-  Flutter + PostgreSQL + خرائط مخصصة ← متعدد اللغات + وضع عدم الاتصال
+### 📊 GitHub Activity
+<img src="https://github-readme-stats.vercelapp/api?username=MOJREMCODES&show_icons=true&theme=react&hide_border=true&include_all_commits=true&count_private=true" alt="stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MOJREMCODES&theme=react&hide_border=true" alt="streak" />
 
-- **تطبيق بحث وتتبع المنتجات (Artist Search Product)**  
-  Flutter + REST API + Real-time search ← تجربة مستخدم سريعة وسلسة
+### ⚡ Currently
+- Daily Linux user (Arch + Fedora)
+- Focusing on Kubernetes & advanced backend systems
+- Always writing clean, tested, and documented code
 
-- **تطبيق إدارة الديون والكفالة الحلال (Doyounekfiaman)**  
-  Flutter + PHP + MySQL ← يدعم ملايين المستخدمين مستقبلًا
+**Open to freelance & full-time opportunities**  
+Drop me a message → mojremcodes0001@gmail.com
 
-- +15 مشروع تجاري آخر (متاجر إلكترونية، أنظمة حجز، تطبيقات توصيل...)
-
-### 📊 نشاطي على GitHub
-![Mojrem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MOJREMCODES&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MOJREMCODES&layout=compact&theme=tokyonight&hide_border=true)
-
-### ⚡ حقائق سريعة
-- أكتب كود نظيف وموثق دائمًا
-- أحب التحديات المعقدة (خوارزميات، أداء، أمان)
-- أستخدم Linux يوميًا (Arch + Fedora)
-- مهتم بـ Cyber Security و Penetration Testing
-
-إذا كنت تبحث عن مطور يحول فكرتك إلى واقع بجودة عالية وفي وقت قياسي — أنا هنا!
-
-✨ **متاح للعمل الحر (Freelance) أو التوظيف بدوام كامل** ✨
-
-تواصل معي الآن: mojremcodes0001@gmail.com
+Looking forward to building the next big thing together! 🚀
