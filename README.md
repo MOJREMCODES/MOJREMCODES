@@ -1,52 +1,52 @@
-# السلام 👋  
-أنا فوضيل مبارك – Mojrem Codes
+# السلام عليكم، أنا فوضيل مبارك (Mojrem Codes)  
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Full-Stack+%26+Mobile+Developer;Clean+Code+Enthusiast;Always+Building+%26+Learning" alt="Typing SVG" />
 
-<img src="https://github.com/MOJREMCODES/MOJREMCODES/blob/main/your-photo-here.jpg?raw=true" align="right" width="220" style="border-radius:12px;" />
+<img align="right" width="320" src="https://i.imgur.com/8Q2X9yK.gif" />
 
-**Beginner Web & Mobile Developer** on a serious journey to mastery.  
-Every day I strive to be better than yesterday — one line of code, one concept, one challenge at a time.
+**Hi there, I'm Foudil Mebarek**  
+Passionate developer turning real-world problems into scalable apps.  
+Most of my production projects are private due to NDAs — happy to showcase code & live demos in private.
 
-> Most of my real-world projects are private (commercial or under NDA), but I'm always happy to show code or run live demos privately.
+### 📬 Connect with me
+[![Gmail](https://img.shields.io/badge/mojremcodes0001@gmail.com-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:mojremcodes0001@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Mojrem_Codes-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mojrem-codes-6237a5326)
 
-### 📬 تواصل معي
-[![Email](https://img.shields.io/badge/mojremcodes0001@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mojremcodes0001@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mojrem_Codes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mojrem-codes-6237a5326)  
-[![Facebook](https://img.shields.io/badge/Facebook-Mojrem_Codes-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=10000yourid أو ابحث عن Mojrem Codes)
+### 🛠 Tech Stack & Current Mastery
 
-### 🛠 Tech Stack & Current Level
+| Technology                    | Level                                   |
+|--------------------------------|-----------------------------------------|
+| Java + OOP                     | ████████████████████ 95%                |
+| Git & GitHub                   | ███████████████████▋ 97%                |
+| Dart & Flutter                 | █████████████▍ 60%                      |
+| Docker                         | █████████████▋ 65%                      |
+| HTML · CSS · JavaScript        | █████████████▍ 60%                      |
+| PHP + MySQL                    | ███████████▌ 50%                        |
+| Algorithms & Competitive Programming | ████████████████▍ 80%              |
+| Assembly                       | █████████████▍ 60%                      |
+| C / C++                        | ██████ 30%                              |
+| PostgreSQL & DBA               | ████ 20%                                |
+| Kubernetes                     | ██ 15% (Currently learning)             |
 
-| Technology                          | Proficiency                          |
-|-------------------------------------|--------------------------------------|
-| Java + OOP                          | ████████████████████ 95%             |
-| Git & GitHub                        | ███████████████████▋ 97%             |
-| Dart & Flutter                      | █████████████▍ 60%                   |
-| Docker                              | █████████████▋ 65%                   |
-| HTML · CSS · JavaScript             | █████████████▍ 60%                   |
-| PHP + MySQL                         | ███████████▌ 50%                     |
-| Algorithms & Competitive Programming| ████████████████▍ 80%                |
-| Assembly                            | █████████████▍ 60%                   |
-| C / C++                             | ██████ 30%                           |
-| PostgreSQL & Database Admin         | ████ 20%                             |
-| Kubernetes                          | ██ 15% (Learning now)                |
+### 🔥 Featured Projects (Private / Commercial)
 
-### 🔥 Selected Projects (Private / Commercial)
+| Project                        | Description                                      |
+|-------------------------------|--------------------------------------------------|
+| Pharmacy Management System    | Full inventory, sales & reporting solution used in real pharmacies |
+| Tourist Guide App             | Offline-first multilingual tourist assistant    |
+| Artist Search Product         | Real-time product discovery & tracking platform |
+| Doyounekfiaman                | Islamic debt & trust management app — currently in planning & design phase |
+| +15 other projects            | E-commerce stores, booking systems, delivery apps, internal ERPs |
 
-- Pharmacy Management System – Full solution used in real pharmacies
-- Tourist Guide App – Offline multilingual tourist assistant
-- Artist Search Product – Fast product discovery platform
-- Doyounekfiaman – Islamic debt & trust app (still in planning & design)
-- +15 other real-world apps (e-commerce, booking, delivery, internal tools…)
+### 📊 GitHub Activity
+<img src="https://github-readme-stats.vercelapp/api?username=MOJREMCODES&show_icons=true&theme=react&hide_border=true&include_all_commits=true&count_private=true" alt="stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MOJREMCODES&theme=react&hide_border=true" alt="streak" />
 
-### 📊 GitHub Stats
-<img src="https://github-readme-stats.vercelapp/api?username=MOJREMCODES&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MOJREMCODES&theme=dracula&hide_border=true" />
+### ⚡ Currently
+- Daily Linux user (Arch + Fedora)
+- Focusing on Kubernetes & advanced backend systems
+- Always writing clean, tested, and documented code
 
-### ⚡ حاليًا
-- Daily Debian Linux user
-- Diving deep into Computer Networks & Artificial Intelligence
-- Every day I push myself: better algorithms, cleaner code, stronger logic
+**Open to freelance & full-time opportunities**  
+Drop me a message → mojremcodes0001@gmail.com
 
-**متاح للمشاريع الحرة أو التوظيف**  
-تواصل معي في أي وقت → mojremcodes0001@gmail.com
-
-مستعد نبني شيء رائع معًا! 🚀
+Looking forward to building the next big thing together! 🚀
