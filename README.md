@@ -1,5 +1,6 @@
-# السلام عليكم، أنا فوضيل مبارك (Mojrem Codes)  
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Full-Stack+%26+Mobile+Developer;Clean+Code+Enthusiast;Always+Building+%26+Learning" alt="Typing SVG" />
+# السلام عليكم 
+#                                                                                                    FOUDIL MEBAREK  (Mojrem Codes)
+<img src="https ://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=web developer+%26+Mobile+Developer;Clean+Code+Enthusiast;Always+Building+%26+Learning" alt="Typing SVG" />
 
 <img align="right" width="320" src="https://i.imgur.com/8Q2X9yK.gif" />
 
@@ -25,7 +26,7 @@ Most of my production projects are private due to NDAs — happy to showcase cod
 | Assembly                       | █████████████▍ 60%                      |
 | C / C++                        | ██████ 30%                              |
 | PostgreSQL & DBA               | ████ 20%                                |
-| Kubernetes                     | ██ 15% (Currently learning)             |
+| Kubernetes                     | ██ 00% (Currently learning)             |
 
 ### 🔥 Featured Projects (Private / Commercial)
 
@@ -35,18 +36,18 @@ Most of my production projects are private due to NDAs — happy to showcase cod
 | Tourist Guide App             | Offline-first multilingual tourist assistant    |
 | Artist Search Product         | Real-time product discovery & tracking platform |
 | Doyounekfiaman                | Islamic debt & trust management app — currently in planning & design phase |
-| +15 other projects            | E-commerce stores, booking systems, delivery apps, internal ERPs |
+| +?? other projects            | E-commerce stores , delivery apps, ...
 
 ### 📊 GitHub Activity
 <img src="https://github-readme-stats.vercelapp/api?username=MOJREMCODES&show_icons=true&theme=react&hide_border=true&include_all_commits=true&count_private=true" alt="stats" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MOJREMCODES&theme=react&hide_border=true" alt="streak" />
 
 ### ⚡ Currently
-- Daily Linux user (Arch + Fedora)
-- Focusing on Kubernetes & advanced backend systems
-- Always writing clean, tested, and documented code
+- Daily Linux user (Debian)
+- Focusing on NETWORKING & ARTIFIIEL ITILIGENCE
+- Always learning how to write clean
 
-**Open to freelance & full-time opportunities**  
+ 
 Drop me a message → mojremcodes0001@gmail.com
 
 Looking forward to building the next big thing together! 🚀
